@@ -9,7 +9,7 @@ public class MilesPerHour {
     private double mph;
 
     public MilesPerHour() {
-        setNums(0, 0, 0);
+        setNum(0, 0, 0);
         mph = 0.0;
     }
 
@@ -19,7 +19,7 @@ public class MilesPerHour {
         minutes = mins;
     }
 
-    public void setNums(int dist, int hrs, int mins) {
+    public void setNum(int dist, int hrs, int mins) {
         distance = dist;
         hours = hrs;
         minutes = mins;
