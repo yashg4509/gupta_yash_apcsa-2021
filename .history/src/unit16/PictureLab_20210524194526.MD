@@ -1,0 +1,1 @@
+## To access the Picture Lab, please click this [link](https://github.com/yashg4509/PictureLabAPCSA). I had to make a new repo because it was easier for me to make a new project. Please let me know if you have any questions.
